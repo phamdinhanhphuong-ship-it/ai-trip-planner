@@ -1,0 +1,20 @@
+﻿{
+    "session_id":  "geoapify-test-1",
+    "reply":  "ÄÃ£ láº­p lá»ch trÃ¬nh ngÃ y 2026-09-22 vá»i 0 Äiá»m, xuáº¥t phÃ¡t tá»« Chá»£ Báº¿n ThÃ nh, Báº¿n ThÃ nh, Quáº­n 1, Há» ChÃ­ Minh:\nCÃ³ 6 khung giá» khÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p nÃªn Äá» trá»ng, khÃ´ng bá»a thÃªm.\nLÆ°u Ã½: KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Än sÃ¡ng\u0027 (08:00-09:00) â bá» trá»ng thay vÃ¬ bá»a.\nLÆ°u Ã½: KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Tham quan buá»i sÃ¡ng\u0027 (09:30-11:00) â bá» trá»ng thay vÃ¬ bá»a.\nLÆ°u Ã½: KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Än trÆ°a\u0027 (11:30-13:00) â bá» trá»ng thay vÃ¬ bá»a.\nLÆ°u Ã½: KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Tham quan buá»i chiá»u\u0027 (13:00-16:00) â bá» trá»ng thay vÃ¬ bá»a.\nLÆ°u Ã½: KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Giáº£i lao / cÃ  phÃª\u0027 (16:30-18:00) â bá» trá»ng thay vÃ¬ bá»a.\nLÆ°u Ã½: KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Än tá»i\u0027 (19:00-20:00) â bá» trá»ng thay vÃ¬ bá»a.\nLÆ°u Ã½: NgÃ¢n sÃ¡ch chá» mang tÃ­nh tham kháº£o: nguá»n dá»¯ liá»u Äá»a Äiá»m hiá»n táº¡i (Overpass/Geoapify) khÃ´ng cung cáº¥p giÃ¡ tháº­t, nÃªn há» thá»ng KHÃNG lá»c/kháº³ng Äá»nh theo ngÃ¢n sÃ¡ch.",
+    "itinerary":  {
+                      "date":  "2026-09-22",
+                      "stops":  [
+
+                                ],
+                      "unfilled_slots":  6,
+                      "notes":  [
+                                    "KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Än sÃ¡ng\u0027 (08:00-09:00) â bá» trá»ng thay vÃ¬ bá»a.",
+                                    "KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Tham quan buá»i sÃ¡ng\u0027 (09:30-11:00) â bá» trá»ng thay vÃ¬ bá»a.",
+                                    "KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Än trÆ°a\u0027 (11:30-13:00) â bá» trá»ng thay vÃ¬ bá»a.",
+                                    "KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Tham quan buá»i chiá»u\u0027 (13:00-16:00) â bá» trá»ng thay vÃ¬ bá»a.",
+                                    "KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Giáº£i lao / cÃ  phÃª\u0027 (16:30-18:00) â bá» trá»ng thay vÃ¬ bá»a.",
+                                    "KhÃ´ng tÃ¬m ÄÆ°á»£c Äá»a Äiá»m tháº­t phÃ¹ há»£p cho khung \u0027Än tá»i\u0027 (19:00-20:00) â bá» trá»ng thay vÃ¬ bá»a.",
+                                    "NgÃ¢n sÃ¡ch chá» mang tÃ­nh tham kháº£o: nguá»n dá»¯ liá»u Äá»a Äiá»m hiá»n táº¡i (Overpass/Geoapify) khÃ´ng cung cáº¥p giÃ¡ tháº­t, nÃªn há» thá»ng KHÃNG lá»c/kháº³ng Äá»nh theo ngÃ¢n sÃ¡ch."
+                                ]
+                  }
+}
